@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, my fellow developers! I'm Bishal Saha.</h1>
-<h3 align="center">A passionate web3 developer from Chandpara, India.</h3>
+<h1 align="center">Hello👋, my fellow developers! I'm Bishal Saha</h1>
+<h3 align="center">A passionate web3 developer from Chandpara, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal7448" alt="bishal7448" /></a> </p>
 
